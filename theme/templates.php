@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Home | E-Shopper</title>
+    <title>Virtual | Store</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -49,8 +49,8 @@ if (isset($_SESSION['gcCart'])){
           <div class="col-sm-6">
             <div class="contactinfo">
               <ul class="nav nav-pills">
-                <li><a href="#"><i class="fa fa-phone"></i> +2 95 01 88 821</a></li>
-                <li><a href="#"><i class="fa fa-envelope"></i> jannopalacios@gmail.com</a></li>
+                <li><a href="#"><i class="fa fa-phone"></i> +263 78 281 3035</a></li>
+                <li><a href="#"><i class="fa fa-envelope"></i> warrenzingwena@gmail.com</a></li>
               </ul>
             </div>
           </div>
@@ -74,7 +74,7 @@ if (isset($_SESSION['gcCart'])){
         <div class="row">
           <div class="col-md-4 clearfix">
             <div class="logo pull-left">
-              <a href="<?php echo web_root?>"><img src="images/home/logo.png" alt="" /></a>
+              <a href="<?php echo web_root?>"><img src="images/home/logo1.jpg" alt="" /></a>
             </div> 
           </div>
           <div class="col-md-8 clearfix">
@@ -165,7 +165,7 @@ if (isset($_SESSION['gcCart'])){
             <div class="col-sm-6">
               <div class="video-gallery text-center">
                 <a href="#"> 
-                    <iframe class="iframe-img"  src="https://www.youtube.com/embed/d8N21Q_UN4w"   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                    <iframe class="iframe-img"  src=""   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                 </a> 
               </div>
             </div>
@@ -173,7 +173,7 @@ if (isset($_SESSION['gcCart'])){
             <div class="col-sm-6">
               <div class="video-gallery text-center">
                 <a href="#"> 
-                   <iframe  class="iframe-img"  src="https://www.youtube.com/embed/aMDC3Da4KIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                   <iframe  class="iframe-img"  src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                 </a> 
               </div>
             </div>
@@ -181,7 +181,7 @@ if (isset($_SESSION['gcCart'])){
           <div class="col-sm-3">
             <div class="address">
               <img src="images/home/map.png" alt="" />
-              <p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
+              <p>Fairview Estate Harare, Zimbabwe</p>
             </div>
           </div>
         </div>
@@ -190,7 +190,6 @@ if (isset($_SESSION['gcCart'])){
     
     <div class="footer-widget">
       <div class="container">
-        <p>You can modify this section using your own personal information</p>
         <div class="row">
           <div class="col-sm-3">
             <div class="single-widget">
@@ -224,15 +223,15 @@ if (isset($_SESSION['gcCart'])){
               <ul class="nav nav-pills nav-stacked">
                 <li><a href="#">Terms of Use</a></li>
                 <li><a href="#">Privecy Policy</a></li>
-                <li><a href="https://youtu.be/9hcCHTwW3HA">HR Record System</a></li>
+                <!-- <li><a href="https://youtu.be/9hcCHTwW3HA">HR Record System</a></li>
                 <li><a href="https://youtu.be/aMDC3Da4KIA">Point of Sales</a></li>
-                <li><a href="https://youtu.be/d8N21Q_UN4w">Resevation System</a></li>
+                <li><a href="https://youtu.be/d8N21Q_UN4w">Resevation System</a></li> -->
               </ul>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="single-widget">
-              <h2>About Shopper</h2>
+              <h2>About Virtual Sgopping</h2>
               <ul class="nav nav-pills nav-stacked">
                 <li><a href="#">Company Information</a></li>
                 <li><a href="#">Careers</a></li>
